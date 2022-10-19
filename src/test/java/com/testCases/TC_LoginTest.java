@@ -11,7 +11,7 @@ import com.pageObjects.LoginPage;
 public class TC_LoginTest extends BaseClass {
 
 
-	//valid login creds entered properly
+	//valid login creds entered properly and clearly
 	@Test
 	public void loginTest() {
 		LoginPage	loginPage = new LoginPage();
